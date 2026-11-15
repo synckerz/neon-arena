@@ -50,9 +50,15 @@ The official game page is hosted on itch.io:
 
 Check the itch.io page for the latest available build and platform details.
 
-## Gameplay video
+## Gameplay showcase
 
-The gameplay trailer will be added here once the recorded in-game footage is ready. Promotional artwork is not presented as actual gameplay.
+The preview below uses recorded in-game footage.
+
+![NEON ARENA gameplay preview](media/NeonArena_Gameplay_Preview.gif)
+
+[▶ Watch the full gameplay trailer (MP4)](media/NeonArena_Gameplay_Trailer.mp4)
+
+[🎮 Play NEON ARENA on itch.io](https://synckerz.itch.io/neon-arena)
 
 ## Project updates
 
